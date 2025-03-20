@@ -61,18 +61,23 @@ Y= A⊕B
 5.	For different input combinations generate the timing diagram.
 
 **PROGRAM**
+
 ![Screenshot 2025-03-17 114649](https://github.com/user-attachments/assets/452eac66-cfd8-4d4e-89dd-06c46717dc69)
  
 **Logic symbol & Truthtable**
+
 ![de table](https://github.com/user-attachments/assets/382e7d0b-ee97-4190-bf64-8d02de8cb2a3)
 
 **RTL realization Output:** 
+
 ![Screenshot 2025-03-17 114813](https://github.com/user-attachments/assets/b540d53e-1dfb-4bfc-be04-035b44705b36)
 
 **RTL**
+
 ![Screenshot 2025-03-17 114549](https://github.com/user-attachments/assets/3503071b-4df4-4fef-9c62-e0be0399b29f)
 
 
 **Result:**
+
 Therefore, the given experiment is successful.
 
