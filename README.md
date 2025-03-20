@@ -1,7 +1,6 @@
-### study-of-basic-gates
-
-## Developed by: ABISHEIK R
+## NAME: ABISHEIK R
 ## RegisterNumber: 212223040005
+## EX NO1: Study-Of-Basic-Gates
 
 **AIM:** 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -62,7 +61,8 @@ Y= A⊕B
 
 **PROGRAM**
 
-![Screenshot 2025-03-17 114649](https://github.com/user-attachments/assets/452eac66-cfd8-4d4e-89dd-06c46717dc69)
+![Screenshot 2025-03-20 110737](https://github.com/user-attachments/assets/ebd54818-843c-45e0-b6ed-7d7241908c05)
+
  
 **Logic symbol & Truthtable**
 
@@ -70,7 +70,8 @@ Y= A⊕B
 
 **RTL realization Output:** 
 
-![Screenshot 2025-03-17 114813](https://github.com/user-attachments/assets/b540d53e-1dfb-4bfc-be04-035b44705b36)
+![Screenshot 2025-03-20 110714](https://github.com/user-attachments/assets/23d6068c-7c7a-4058-83fc-1751a7f0a5e2)
+
 
 **RTL**
 
